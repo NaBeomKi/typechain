@@ -5,6 +5,10 @@
   "repository": "git@github.com:beomki69/typechain.git",
   "author": "beomki69 <beomki69@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "yarn tsc"
+  },
   "devDependencies": {
     "typescript": "^4.4.2"
   }
