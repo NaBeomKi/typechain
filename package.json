@@ -1,0 +1,11 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:beomki69/typechain.git",
+  "author": "beomki69 <beomki69@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
